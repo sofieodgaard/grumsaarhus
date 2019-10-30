@@ -1,0 +1,44 @@
+/*
+Theme Name: OceanWP Child Theme
+Theme URI: https://sofieodgaard.dk/grumsaarhus
+Description: OceanWP Child Theme
+Author: Søs Wind, Charlotte Skibsted & Sofie Odgaard
+Author URI: https://sofieodgaard.dk/grumsaarhus
+Template: oceanwp
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain: oceanwpchild
+*/
+
+*
+
+.menu-link{
+        font-family: 'Dosis', sans-serif !important;
+        color: #444444 !important;
+        font-size: 14px !important;
+        font-weight: 300 !important;
+
+}
+body, 
+p{
+    font-family: 'Dosis', sans-serif !important;
+}
+h1,
+h2{
+    font-family: 'Josefin Slab', serif !important;
+    color: #444444 !important;
+    font-size: 3em !important;
+}
+h3{
+    font-family: 'Josefin Slab', serif !important;
+    color: #444444 !important;
+    font-size: 2em !important; 
+}
+h4{
+    font-family: 'Dosis', sans-serif !important;
+        color: #444444 !important;
+        font-size: 1em !important;
+        font-weight: 300 !important;
+}
